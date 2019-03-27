@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<transaction_currency>INR</transaction_currency>
+	<transaction_time>2014-07-31 19:53:36</transaction_time>
+	<transaction_auth_state>FAILED</transaction_auth_state>
+	<merchant_key_id>payment</merchant_key_id>
+	<transaction_response_code>BANK_RESPONSE_DELAYED</transaction_response_code>
+	<bank_name>ICICI</bank_name>
+	<hash>76f577f48379fb682238cb873712ba580e91501060e0941c425173e1f67c871b</hash>
+	<transaction_response_message>There was a delay in receiving the bank's response</transaction_response_message>
+	<version>Cv1</version>
+	<payment_instrument>NET</payment_instrument>
+	<payzippy_transaction_id>PZT14073119533691738</payzippy_transaction_id>
+	<transaction_status>FAILED</transaction_status>
+	<hash_method>SHA256</hash_method>
+	<fraud_action>review</fraud_action>
+	<merchant_transaction_id>RS3107141282949617</merchant_transaction_id>
+	<transaction_amount>30000</transaction_amount>
+	<is_international>false</is_international>
+	<fraud_details></fraud_details>
+	<merchant_id>test_t1504</merchant_id>
+	<payment_method>PAYZIPPY</payment_method>
+</data>

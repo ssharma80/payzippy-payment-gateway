@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<transaction_currency>INR</transaction_currency>
+	<transaction_time>2014-07-31 19:02:43</transaction_time>
+	<transaction_auth_state>SALE</transaction_auth_state>
+	<merchant_key_id>payment</merchant_key_id>
+	<transaction_response_code>SUCCESS</transaction_response_code>
+	<bank_name>ICICI</bank_name>
+	<hash>d42ddc80062ff3b607a85f4b6d3ca42f772b617776d4538b0eaebda0a0f66cfb</hash>
+	<transaction_response_message>The transaction is successful</transaction_response_message>
+	<version>Cv1</version>
+	<payment_instrument>NET</payment_instrument>
+	<payzippy_transaction_id>PZT14073119024338725</payzippy_transaction_id>
+	<transaction_status>SUCCESS</transaction_status>
+	<hash_method>SHA256</hash_method>
+	<fraud_action>review</fraud_action>
+	<merchant_transaction_id>RS3107141229112663</merchant_transaction_id>
+	<transaction_amount>30000</transaction_amount>
+	<is_international>false</is_international>
+	<fraud_details></fraud_details>
+	<merchant_id>test_t1504</merchant_id>
+	<payment_method>PAYZIPPY</payment_method>
+</data>

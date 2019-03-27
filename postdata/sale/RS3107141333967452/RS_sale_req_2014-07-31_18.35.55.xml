@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<merchant_id>test_t1504</merchant_id>
+	<merchant_key_id>payment</merchant_key_id>
+	<transaction_type>SALE</transaction_type>
+	<ui_mode>REDIRECT</ui_mode>
+	<hash_method>SHA256</hash_method>
+	<currency>INR</currency>
+	<callback_url>http://182.64.198.148/checkout/place_order</callback_url>
+	<buyer_email_address>shaan.sharma@gmail.com</buyer_email_address>
+	<merchant_transaction_id>RS3107141333967452</merchant_transaction_id>
+	<transaction_amount>30000</transaction_amount>
+	<payment_method>PAYZIPPY</payment_method>
+	<bank_name>ICICI</bank_name>
+	<buyer_phone_no>8377080432</buyer_phone_no>
+	<shipping_address>C-5/4 D.D.A S.F.S FLATS SAKET</shipping_address>
+	<shipping_city>New Delhi</shipping_city>
+	<shipping_state>Delhi</shipping_state>
+	<shipping_zip>110017</shipping_zip>
+	<shipping_country>India</shipping_country>
+	<billing_name>Shantanu Sharma</billing_name>
+	<billing_address>C-5/4 D.D.A S.F.S FLATS SAKET</billing_address>
+	<billing_city>New Delhi</billing_city>
+	<billing_state>Delhi</billing_state>
+	<billing_zip>India</billing_zip>
+	<hash>a4acdb77c8871cb2d2c2b69ebb5a17cbdafdc4d5c74693dcb0dc096985256e16</hash>
+</data>

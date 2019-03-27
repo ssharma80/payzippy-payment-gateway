@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<transaction_currency>INR</transaction_currency>
+	<transaction_time>2014-09-04 07:07:50</transaction_time>
+	<transaction_auth_state>SALE</transaction_auth_state>
+	<merchant_key_id>payment</merchant_key_id>
+	<transaction_response_code>SUCCESS</transaction_response_code>
+	<bank_name>KARNATAKA</bank_name>
+	<hash>193c8bec6140bc177dd1408e7d363002d2b1873cbfdbdd2e3153f7b48e6cbe90</hash>
+	<transaction_response_message>The transaction is successful</transaction_response_message>
+	<version>Cv1</version>
+	<payment_instrument>NET</payment_instrument>
+	<payzippy_transaction_id>PZT14090407075039889</payzippy_transaction_id>
+	<transaction_status>SUCCESS</transaction_status>
+	<hash_method>SHA256</hash_method>
+	<merchant_transaction_id>CT0409141156362982</merchant_transaction_id>
+	<fraud_action>review</fraud_action>
+	<is_international>false</is_international>
+	<transaction_amount>1421000</transaction_amount>
+	<fraud_details></fraud_details>
+	<merchant_id>test_t1504</merchant_id>
+	<payment_method>PAYZIPPY</payment_method>
+</data>

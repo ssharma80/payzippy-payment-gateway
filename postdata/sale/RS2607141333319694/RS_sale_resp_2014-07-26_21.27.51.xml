@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<transaction_currency>INR</transaction_currency>
+	<transaction_time>2014-07-26 21:27:36</transaction_time>
+	<transaction_auth_state>FAILED</transaction_auth_state>
+	<merchant_key_id>payment</merchant_key_id>
+	<transaction_response_code>BANK_UNAVAILABLE</transaction_response_code>
+	<bank_name>AXIS</bank_name>
+	<hash>ab11706c733691c036379033633f0ed2cb27621ad025a4442279780af8ae7080</hash>
+	<transaction_response_message>The bank for processing this payment request is currently unavailable</transaction_response_message>
+	<version>Cv1</version>
+	<payment_instrument>NET</payment_instrument>
+	<payzippy_transaction_id>PZT14072621273614957</payzippy_transaction_id>
+	<transaction_status>FAILED</transaction_status>
+	<hash_method>SHA256</hash_method>
+	<fraud_action>review</fraud_action>
+	<merchant_transaction_id>RS2607141333319694</merchant_transaction_id>
+	<transaction_amount>90000</transaction_amount>
+	<is_international>false</is_international>
+	<fraud_details></fraud_details>
+	<merchant_id>test_t1504</merchant_id>
+	<payment_method>PAYZIPPY</payment_method>
+</data>
